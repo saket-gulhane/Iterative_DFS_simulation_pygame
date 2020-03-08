@@ -2,4 +2,4 @@
 How to run: clone this repository and run "simulationIDFS.exe"
 <br/>
 <br/>
-<img src="./Assets/demo.gif" alt="animated" />
+<img src="demo.gif" alt="animated" />
